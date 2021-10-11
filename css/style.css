@@ -1,0 +1,22 @@
+body{
+    background-image:url("mer.jpg");
+    background-size: 120%;
+    color: yellowgreen;
+}
+blockquote{
+ color: red;
+}
+h1{
+ border-style: inset ;
+ color: purple;
+ border-width:0.5cm;
+ border-color: salmon;
+ margin: 1cm;
+ padding:2cm;
+}
+a:hover{
+ color: silver;
+}
+a:active{
+ color: black;
+}
